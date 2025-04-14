@@ -1,0 +1,11 @@
+*.o
+
+program
+
+obj/
+bin/
+
+*.out
+*.exe
+*.log
+*.tmp
